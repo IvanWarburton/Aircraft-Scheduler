@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Routes>
+    <Route>
+        <FlightNumber>1848</FlightNumber>
+        <DayOfWeek>Tue</DayOfWeek>
+        <DepartureTime>13:40</DepartureTime>
+        <DepartureAirport>Belfast</DepartureAirport>
+        <DepartureAirportIATACode>BFS</DepartureAirportIATACode>
+        <ArrivalTime>18:05</ArrivalTime>
+        <ArrivalAirport>Tenerife-Sur</ArrivalAirport>
+        <ArrivalAirportIATACode>TFS</ArrivalAirportIATACode>
+        <Duration>PT4H25M</Duration>
+    </Route>
+    <Route>
+        <FlightNumber>1980</FlightNumber>
+        <DayOfWeek>Fri</DayOfWeek>
+        <DepartureTime>14:00</DepartureTime>
+        <DepartureAirport>Belfast</DepartureAirport>
+        <DepartureAirportIATACode>BFS</DepartureAirportIATACode>
+        <ArrivalTime>18:25</ArrivalTime>
+        <ArrivalAirport>Tenerife-Sur</ArrivalAirport>
+        <ArrivalAirportIATACode>TFS</ArrivalAirportIATACode>
+        <Duration>PT4H25M</Duration>
+    </Route>
+    <Route>
+        <FlightNumber>1849</FlightNumber>
+        <DayOfWeek>Tue</DayOfWeek>
+        <DepartureTime>19:05</DepartureTime>
+        <DepartureAirport>Tenerife-Sur</DepartureAirport>
+        <DepartureAirportIATACode>TFS</DepartureAirportIATACode>
+        <ArrivalTime>23:25</ArrivalTime>
+        <ArrivalAirport>Belfast</ArrivalAirport>
+        <ArrivalAirportIATACode>BFS</ArrivalAirportIATACode>
+        <Duration>PT4H20M</Duration>
+    </Route>
+    <Route>
+        <FlightNumber>1981</FlightNumber>
+        <DayOfWeek>Fri</DayOfWeek>
+        <DepartureTime>19:25</DepartureTime>
+        <DepartureAirport>Tenerife-Sur</DepartureAirport>
+        <DepartureAirportIATACode>TFS</DepartureAirportIATACode>
+        <ArrivalTime>23:45</ArrivalTime>
+        <ArrivalAirport>Belfast</ArrivalAirport>
+        <ArrivalAirportIATACode>BFS</ArrivalAirportIATACode>
+        <Duration>PT4H20M</Duration>
+    </Route>
+</Routes>
